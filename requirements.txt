@@ -1,5 +1,5 @@
 streamlit==1.22.0
-langchain==0.0.184
+langchain==0.2.10
 openai==0.27.0
 chromadb==0.3.21
 neo4j==4.4.3
