@@ -5,7 +5,7 @@ chromadb==0.3.21
 neo4j==4.4.3
 unstructured==0.6.6
 boto3==1.26.142
-pydantic==1.10.7
+pydantic==1.10.13
 python-dotenv==1.0.0
 sqlalchemy==1.4.47
 bcrypt==4.0.1
